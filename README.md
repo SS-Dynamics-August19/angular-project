@@ -4,10 +4,12 @@
 (unknown if steps differ from first time setup below)
 
 ## To set up Angular (first time):
-```nvm install 10.9
+```
+nvm install 10.9
 nvm use 10.9
 npm i -g @angular/cli
-ng new AngularProject```
+ng new AngularProject
+```
 
 ## Usage after setup:
 
