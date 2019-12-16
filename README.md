@@ -1,4 +1,4 @@
-# angular-projectg
+# angular-project
 
 # To check out repo:
 (unknown if steps differ from first time setup below)
